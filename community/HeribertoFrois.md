@@ -1,11 +1,3 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
-
-<h1>
-    <a href="https://elidianaandrade.github.io/">
-     <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
-    <span>Elidiana Andrade</span>
-</h1>
-
 <p align="justify">Líder técnico e desenvolvedor Java com experiência de mais de 10 anos no desenvolvimento de aplicações web voltados para a área de segurança publica. Forte comprometimento com aprendizagem e proatividade. 
 Conquistas: 
 Emissão de carteira de identidade via web;
