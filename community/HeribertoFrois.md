@@ -13,5 +13,4 @@ Alvará Eletrônico.
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=blue)](mailto:heribertofrois@yahoo.com.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/heriberto-meireles-fr%C3%B3is-6a50b0210/)
 
-<h3 align="left">GitHub Stats</h3>
 <br>
